@@ -21,4 +21,4 @@
 - chanceDirection (Шанс смены направления)
 
 Я подобрал значения для каждого уровня сложности, изменяя их равномерно от уровня к уровню:
-
+![image](https://github.com/nosova666/DA-in-GameDev-labwork3/blob/main/lvl%20difficulty.png)
