@@ -22,3 +22,7 @@
 
 Я подобрал значения для каждого уровня сложности, изменяя их равномерно от уровня к уровню:
 ![image](https://github.com/nosova666/DA-in-GameDev-labwork3/blob/main/lvl%20difficulty.png)
+
+## Задание 2
+Я клонировал сцену "_Scene1" 9 раз и далее изменил в каждой сцене переменные в скрипте Enemy Dragon:
+![image](https://github.com/nosova666/DA-in-GameDev-labwork3/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-17%20062919.png)
